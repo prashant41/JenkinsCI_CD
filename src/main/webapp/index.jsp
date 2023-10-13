@@ -1,4 +1,5 @@
 <html>
+	<title>Form</title>
 <body>
 	<h2>Welcome to Ashok IT School</h2>
 
